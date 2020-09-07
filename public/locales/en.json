@@ -1,0 +1,49 @@
+{
+  "balance": {
+    "title": "Balance"
+  },
+  "actions": {
+    "pay": "Pay",
+    "withdraw": "Withdraw"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "status": {
+      "unconfirmed": "Unconfirmed transaction",
+      "confirmed": "Confirmed transaction",
+      "expired": "Expired transaction"
+    },
+    "viewAll": "Show all"
+  },
+  "invoices": {
+    "title": "Invoices",
+    "create": "Create invoice",
+    "viewAll": "Show all",
+    "success": "Success!",
+    "successGreeting": "You received a payment for your invoice",
+    "form": {
+      "create": "Create invoice",
+      "copy": "Copy or scan the invoice below",
+      "title": "Title",
+      "amount": "Amount (in sats)",
+      "expiration": "Expiration (in minutes)",
+      "description": "Description",
+      "submit": "Create"
+    }
+  },
+  "payments": {
+    "title": "Pay invoice",
+    "description": "Paste your invoice below",
+    "success": "Success!",
+    "successGreeting": "Your payment was successfully completed",
+    "form": {
+      "title": "Title",
+      "description": "Description",
+      "invoice": "Invoice"
+    }
+  },
+  "key": {
+    "insert": "Insert your key",
+    "signin": "Sign in"
+  }
+}

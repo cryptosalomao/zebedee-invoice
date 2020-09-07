@@ -1,0 +1,49 @@
+{
+  "balance": {
+    "title": "Saldo"
+  },
+  "actions": {
+    "pay": "Pagar",
+    "withdraw": "Retirar"
+  },
+  "transactions": {
+    "title": "Transações",
+    "status": {
+      "unconfirmed": "Transação não confirmada",
+      "confirmed": "Transação confirmada",
+      "expired": "Transação expirada"
+    },
+    "viewAll": "Ver tudo"
+  },
+  "invoices": {
+    "title": "Faturas",
+    "create": "Criar fatura",
+    "viewAll": "Ver tudo",
+    "success": "Sucesso!",
+    "successGreeting": "Você recebeu o pagamento da sua fatura com sucesso",
+    "form": {
+      "create": "Criar fatura",
+      "copy": "Copie ou scaneie a fatura abaixo",
+      "title": "Título",
+      "amount": "Valor (em sats)",
+      "expiration": "Validade (em minutos)",
+      "description": "Descrição",
+      "submit": "Criar"
+    }
+  },
+  "payments": {
+    "title": "Realizar pagamento",
+    "description": "Insira abaixo sua fatura",
+    "success": "Successo!",
+    "successGreeting": "Seu pagamento foi realizado com sucesso",
+    "form": {
+      "title": "Título",
+      "description": "Descrição",
+      "invoice": "Fatura"
+    }
+  },
+  "key": {
+    "insert": "Insira sua chave",
+    "signin": "Acessar"
+  }
+}
